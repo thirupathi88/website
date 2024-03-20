@@ -1,4 +1,4 @@
-alert("I, Rohit Adithya, Cordially Welcome You to My Personal Portfolio!")
+alert("I, Thirupathi, Cordially Welcome You to My Personal Portfolio!")
 
 let dps = ['UI/UX', 'Figma', 'Power BI', 'Python', 'Data Analysis'];
 let dpContent = document.querySelector('.dp_content');
